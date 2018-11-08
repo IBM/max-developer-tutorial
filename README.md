@@ -14,7 +14,7 @@ Workshop modules:
  - [**Module 2: Consume a deep learning microservice**](modules/module2/) (Estimated time: 20 minutes) 
    - Customize a sample Node.js or Python web app to consume a microservice
  
- If you have any questions or feedback please join the MAX community on Slack.
+ If you have any questions or feedback please [join the MAX community on Slack](https://join.slack.com/t/model-asset-exchange/shared_invite/enQtNDQ4OTQxODUyMTYwLWU2NTc4YTYxNjBhMWRlYWZkNTM5MjlkMDI4ZDI3YzQwMTYyZjk5YjU5NWU3MmNmN2FiNjg1MWFkYzQyODk3OTM).
  
  ---
  License: [Apache-2.0](LICENSE)
