@@ -4,9 +4,9 @@ The [Model Asset eXchange](https://developer.ibm.com/exchanges/models/) (MAX) on
 
 ![Model Asset Exchange landing page](images/exchange-landing-page.png)
 
-By completing this introductory workshop you will learn how to deploy a model microservice and consume it in a basic web application.
+By completing this introductory tutorial you will learn how to deploy a model microservice and consume it in a basic web application.
 
-Workshop modules:
+Tutorial modules:
  - [**Setup**](setup/) (Estimated time: 10 minutes)
  - [**Module 1: Run a deep learning microservice on Docker**](modules/module1) (Estimated time: 30 minutes) 
    - Run a microservice using a pre-built Docker image

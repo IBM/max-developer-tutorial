@@ -56,7 +56,7 @@ The pre-built Docker images provide an easy way to explore a model microservice 
    A simple curl-based example request for the Object Detector model might look as follows:
 
    ```
-   $ curl -F "image=@assets/dog-human.jpg" -XPOST http://127.0.0.1:5000/model/predict
+   $ curl -F "image=@assets/dog-human.jpg" -XPOST http://localhost:5000/model/predict
     {
      "status": "ok",
      "predictions": [
