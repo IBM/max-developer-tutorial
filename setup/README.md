@@ -1,4 +1,4 @@
-# Lab setup
+# Tutorial setup
 
 Time required: 10 minutes
 
@@ -11,6 +11,6 @@ Time required: 10 minutes
    $ cd introduction-to-max-workshop
    ```
   
-4. If you want to complete lab module 3 (instead of just reviewing the solution) make sure [Node.js](https://nodejs.org/en/) or [Python](https://www.python.org/) is installed.
+4. If you want to complete tutorial module 3 (instead of just reviewing the solution) make sure [Node.js](https://nodejs.org/en/) or [Python](https://www.python.org/) is installed.
 
-You are ready to [start the lab](/modules/module1).
+You are ready to [start the tutorial](/modules/module1).

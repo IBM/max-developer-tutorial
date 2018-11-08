@@ -3,7 +3,7 @@
 In the [previous module](/modules/module1) you've deployed a model serving microservice on Docker in a local environment and explored the service's API endpoints. 
 
 In this module you will learn how to:
-  * invoke the inference endpoint of a model microservice, and 
+  * invoke the prediction endpoint of a model microservice, and 
   * process and visualize the results using a simple web application.
 
 The following chart depicts the data flow between our sample web aplication (on the left) and the Object Detector model serving microservice:
@@ -65,15 +65,15 @@ Continue with the instructions for the programming language of your choice:
     ```
  
  5. Open http://localhost:8090/ in your web browser.
-    * In Safari: Open the _Network_ tab in the _Web Inspector_ (&lt;option&gt;&lt;command&gt;&lt;i&gt;).
-    * In Google Chrome: Open the _Network_ tab in the _Developer Tools_ (&lt;option&gt;&lt;command&gt;&lt;i&gt;).
-    * In Mozilla Firefox: Open the _Network_ tab in the _Web Developer Tools_ (&lt;option&gt;&lt;command&gt;&lt;i&gt;).
+    * In Safari: Open the _Network_ tab in the _Web Inspector_ (MacOS: &lt;option&gt;&lt;command&gt;&lt;i&gt;).
+    * In Google Chrome: Open the _Network_ tab in the _Developer Tools_ (MacOS: &lt;option&gt;&lt;command&gt;&lt;i&gt;).
+    * In Mozilla Firefox: Open the _Network_ tab in the _Web Developer Tools_ (MacOS: &lt;option&gt;&lt;command&gt;&lt;i&gt;).
  
  6. Choose a sample image from the `assets/` directory (or any other PNG/JPG image you might have stored on your machine) and click **Detect Objects**.
  
     If you've defined the endpoint URL and request method properly, a message is displayed indicating that no objects were detected. This is expected because you have not yet customized the code that processes the microservice response.
     
- 7. In your browser's _Network_ tab inspect the response of your inference request. It should look similar to this:
+ 7. In your browser's _Network_ tab inspect the response of your prediction request. It should look similar to this:
   ```
    {
     "status": "ok",
@@ -207,7 +207,7 @@ Continue with the instructions for the programming language of your choice:
 ## Summary
 
 In this module you
-  * added code to invoke a deep learning model inference endpoint, and
+  * added code to invoke a deep learning model prediction endpoint, and
   * processed and visualized the response.
 
 End of module
