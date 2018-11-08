@@ -1,0 +1,16 @@
+# Lab setup
+
+Time required: 10 minutes
+
+1. [Download](https://www.docker.com/products/docker-desktop), install, and launch Docker Desktop on your local machine.
+2. [Download](https://git-scm.com/downloads) and install git.
+3. In a terminal window clone the workshop repository.
+
+   ```
+   $ git clone https://github.com/CODAIT/introduction-to-max-workshop.git
+   $ cd introduction-to-max-workshop
+   ```
+  
+4. If you want to complete lab module 3 (instead of just reviewing the solution) make sure [Node.js](https://nodejs.org/en/) or [Python](https://www.python.org/) is installed.
+
+You are ready to [start the lab](/modules/module1).
