@@ -29,7 +29,6 @@ Continue with the instructions for the programming language of your choice:
  * [Node.js](#consuming-using-nodejs)
  * [Python](#consuming-using-python)
 
-
 ---
 ## Consuming using Node.js
 ---
@@ -41,6 +40,8 @@ Continue with the instructions for the programming language of your choice:
     ...
    $ cd max-workshop-app-nodejs 
    ```
+
+   > Note: If you'd like to review the finished sample application (instead of completing the steps listed below), checkout the `solution` branch by running `git checkout solution` in the terminal window.
  
  2. Open `static/index.html`, `static/js/webapp.js`, and `app.js` in your favorite editor. 
  
@@ -131,6 +132,8 @@ Continue with the instructions for the programming language of your choice:
     ...
    $ cd max-workshop-app-python  
    ```
+   
+   > Note: If you'd like to review the finished sample application (instead of completing the steps listed below), checkout the `solution` branch by running `git checkout solution` in the terminal window.
    
  2. Open `app.py` in your favorite editor. 
     
