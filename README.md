@@ -1,6 +1,6 @@
 # Introduction to the Model Asset eXchange on IBM Developer
 
-The [Model Asset eXchange](https://developer.ibm.com/exchanges/models/) (MAX) on IBM Developer is a place where you can find and use free open source deep learning models for text, image, audio, and video processing and much more. The curated list includes _deployable_ models, which you can run as a microservice locally or in the cloud on Docker or Kubernetes, and _trainable_ models.
+The [Model Asset eXchange](https://developer.ibm.com/exchanges/models/) (MAX) on IBM Developer is a place where you can find and use free open source deep learning models for text, image, audio, and video processing and much more. The curated list includes _deployable_ models, which you can run as a microservice locally or in the cloud on Docker or Kubernetes, and _trainable_ models where you can use your own data to train the models.
 
 ![Model Asset Exchange landing page](images/exchange-landing-page.png)
 
