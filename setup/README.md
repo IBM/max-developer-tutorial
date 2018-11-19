@@ -7,10 +7,10 @@ Time required: 10 minutes
 3. In a terminal window clone the workshop repository.
 
    ```
-   $ git clone https://github.com/CODAIT/introduction-to-max-workshop.git
-   $ cd introduction-to-max-workshop
+   $ git https://github.com/CODAIT/max-developer-tutorial.git
+   $ cd max-developer-tutorial
    ```
-  
+
 4. If you want to complete tutorial module 2 (instead of just reviewing the solution) make sure [Node.js](https://nodejs.org/en/) or [Python](https://www.python.org/) is installed.
 
 You are ready to [start the tutorial](/modules/module1).
