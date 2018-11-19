@@ -7,7 +7,7 @@ Time required: 10 minutes
 3. In a terminal window clone the workshop repository.
 
    ```
-   $ git https://github.com/CODAIT/max-developer-tutorial.git
+   $ git clone https://github.com/CODAIT/max-developer-tutorial.git
    $ cd max-developer-tutorial
    ```
 
