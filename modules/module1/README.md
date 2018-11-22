@@ -49,9 +49,9 @@ The pre-built Docker images provide an easy way to explore a model microservice 
    * invoking the deep-learning framework API that the model was implemented in, and 
    * filtering the model output and transforming it into an application-friendly format.
 
-5. Evaluate the model.
+5. Try out the prediction endpoint.
 
-   You can evaluate the model's prediction capability by invoking its `POST /model/predict` endpoint from the Swagger UI or by sending a request using any API client. You can find model specific example inputs in the models' GitHub repository.
+   You can try out the model's prediction capability by invoking its `POST /model/predict` endpoint from the Swagger UI or by sending a request using any API client. You can find model specific example inputs in the models' GitHub repository.
 
    A simple curl-based example request for the Object Detector model might look as follows:
 
