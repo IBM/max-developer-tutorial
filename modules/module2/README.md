@@ -125,12 +125,12 @@ Continue with the instructions for the programming language of your choice:
 ## Consuming using Python
 ---
 
-1. Clone the Python sample application repository https://github.com/IBM/max-workshop-app-python in a terminal window.
+1. Clone the Python sample application repository https://github.com/IBM/max-tutorial-app-python in a terminal window.
   
    ```
-   $ git clone https://github.com/IBM/max-workshop-app-python.git
+   $ git clone https://github.com/IBM/max-tutorial-app-python.git
     ...
-   $ cd max-workshop-app-python  
+   $ cd max-tutorial-app-python  
    ```
    
    > Note: If you'd like to review the finished sample application (instead of completing the steps listed below), checkout the `solution` branch by running `git checkout solution` in the terminal window.
