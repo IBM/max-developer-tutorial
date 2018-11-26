@@ -23,7 +23,7 @@ The following chart depicts the data flow between our sample web aplication (on 
    
    >  ```$ docker run -it -p 5000:5000 codait/max-object-detector```
 
-In preparation for this workshop we have created simple Node.js and Python web application stubs that you will complete by adding the code required to invoke the model microservice's prediction endpoint and process and visualize the results.
+In preparation for this tutorial we have created simple Node.js and Python web application stubs that you will complete by adding the code required to invoke the model microservice's prediction endpoint and process and visualize the results.
 
 Continue with the instructions for the programming language of your choice:
  * [Node.js](#consuming-using-nodejs)
@@ -33,12 +33,12 @@ Continue with the instructions for the programming language of your choice:
 ## Consuming using Node.js
 ---
 
-1. Clone the Node.js sample application repository https://github.com/CODAIT/max-tutorial-app-nodejs in a terminal window.
+1. Clone the Node.js sample application repository https://github.com/IBM/max-tutorial-app-nodejs in a terminal window.
   
    ```
-   $ git clone https://github.com/CODAIT/max-workshop-app-nodejs.git
+   $ git clone https://github.com/IBM/max-tutorial-app-nodejs.git
     ...
-   $ cd max-workshop-app-nodejs 
+   $ cd max-tutorial-app-nodejs 
    ```
 
    > Note: If you'd like to review the finished sample application (instead of completing the steps listed below), checkout the `solution` branch by running `git checkout solution` in the terminal window.
@@ -125,12 +125,12 @@ Continue with the instructions for the programming language of your choice:
 ## Consuming using Python
 ---
 
-1. Clone the Python sample application repository https://github.com/CODAIT/max-workshop-app-python in a terminal window.
+1. Clone the Python sample application repository https://github.com/IBM/max-tutorial-app-python in a terminal window.
   
    ```
-   $ git clone https://github.com/CODAIT/max-workshop-app-python.git
+   $ git clone https://github.com/IBM/max-tutorial-app-python.git
     ...
-   $ cd max-workshop-app-python  
+   $ cd max-tutorial-app-python  
    ```
    
    > Note: If you'd like to review the finished sample application (instead of completing the steps listed below), checkout the `solution` branch by running `git checkout solution` in the terminal window.
