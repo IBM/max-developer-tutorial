@@ -4,7 +4,7 @@ Time required: 10 minutes
 
 1. [Download](https://www.docker.com/products/docker-desktop), install, and launch Docker Desktop on your local machine.
 2. [Download](https://git-scm.com/downloads) and install git.
-3. In a terminal window clone the workshop repository.
+3. In a terminal window clone the tutorial repository.
 
    ```
    $ git clone https://github.com/IBM/max-developer-tutorial.git
