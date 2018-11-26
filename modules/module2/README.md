@@ -33,10 +33,10 @@ Continue with the instructions for the programming language of your choice:
 ## Consuming using Node.js
 ---
 
-1. Clone the Node.js sample application repository https://github.com/CODAIT/max-tutorial-app-nodejs in a terminal window.
+1. Clone the Node.js sample application repository https://github.com/IBM/max-tutorial-app-nodejs in a terminal window.
   
    ```
-   $ git clone https://github.com/CODAIT/max-workshop-app-nodejs.git
+   $ git clone https://github.com/IBM/max-workshop-app-nodejs.git
     ...
    $ cd max-workshop-app-nodejs 
    ```
@@ -125,10 +125,10 @@ Continue with the instructions for the programming language of your choice:
 ## Consuming using Python
 ---
 
-1. Clone the Python sample application repository https://github.com/CODAIT/max-workshop-app-python in a terminal window.
+1. Clone the Python sample application repository https://github.com/IBM/max-workshop-app-python in a terminal window.
   
    ```
-   $ git clone https://github.com/CODAIT/max-workshop-app-python.git
+   $ git clone https://github.com/IBM/max-workshop-app-python.git
     ...
    $ cd max-workshop-app-python  
    ```
