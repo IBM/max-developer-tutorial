@@ -14,7 +14,9 @@ Tutorial modules:
  - [**Module 2: Consume a deep learning microservice**](modules/module2/) (Estimated time: 20 minutes) 
    - Customize a sample Node.js or Python web app to consume a microservice
 
+
 Related links:
+ -  [Tutorial on IBM Developer](https://developer.ibm.com/tutorials/getting-started-with-the-ibm-code-model-asset-exchange/).
  -  [MAX code patterns](http://ibm.biz/max-developers): Explore official sample applications that utilize MAX models, such as the [image caption generator](https://developer.ibm.com/patterns/create-a-web-app-to-interact-with-machine-learning-generated-image-captions/) or the [age estimator](https://developer.ibm.com/patterns/estimate-ages-for-detected-human-faces/).
 
  If you have any questions or feedback please [join the MAX community on Slack](https://join.slack.com/t/model-asset-exchange/shared_invite/enQtNDQ4OTQxODUyMTYwLWU2NTc4YTYxNjBhMWRlYWZkNTM5MjlkMDI4ZDI3YzQwMTYyZjk5YjU5NWU3MmNmN2FiNjg1MWFkYzQyODk3OTM).
